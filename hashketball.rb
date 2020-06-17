@@ -125,5 +125,5 @@ def game_hash
     }
   }
 end
-
+require "pry"
 # Write code here
