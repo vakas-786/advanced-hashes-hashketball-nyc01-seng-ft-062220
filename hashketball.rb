@@ -220,5 +220,5 @@ def big_shoe_rebounds
       end
     end
   end
-  puts rebound
+   rebound
 end
